@@ -1,0 +1,26 @@
+{
+  "/login": {
+    "target": "http://localhost:3000/login",
+    "secure": false,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/login": ""
+    }
+  },
+  "/kinde_callback": {
+    "target": "http://localhost:3000/kinde_callback",
+    "secure": false,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/kinde_callback": ""
+    }
+  },
+  "/api": {
+    "target": "http://localhost:3000",
+    "secure": false,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/api": ""
+    }
+  }
+}
