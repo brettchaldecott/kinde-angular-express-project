@@ -98,6 +98,4 @@ The Angular application is configured to proxy authentication requests to the Ex
 ## Contributions
 Contributions are welcome. Please submit a pull request or open an issue to contribute.
 
-## Contact
-For questions or support, please contact [Your Name] at [your-email@example.com].
 
